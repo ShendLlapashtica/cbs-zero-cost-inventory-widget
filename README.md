@@ -394,3 +394,7 @@ Two rendering paths would have been two things to keep in step forever.
 *Published as a write-up of production work. The upstream marketplace and the
 dealer network are not named, and no proprietary source is included — the code
 excerpts are illustrative.*
+
+*Related work by the same author: [Encar API](https://encar-api.com) — a
+commercial data API serving live Korean used-car listings as JSON, where the
+per-request cost decides the margin the same way it does here.*
